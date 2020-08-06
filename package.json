@@ -1,7 +1,7 @@
 {
-  "name": "charles-preso",
+  "name": "gto-dc-powerbi",
   "version": "1.0.0",
-  "description": "charles HTML5 slides",
+  "description": "DC GTO w PowerBI",
   "main": "Gruntfile.js",
   "directories": {
     "test": "test"
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dnzengou/Charles-preso.git"
+    "url": "git+https://github.com/dnzengou/gto-dc-powerbi.git"
   },
   "author": "desireyavro",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dnzengou/Charles-preso/issues"
+    "url": "https://github.com/dnzengou/gto-dc-powerbi/issues"
   },
-  "homepage": "https://github.com/dnzengou/Charles-preso#readme"
+  "homepage": "https://github.com/dnzengou/gto-dc-powerbi#readme"
 }
